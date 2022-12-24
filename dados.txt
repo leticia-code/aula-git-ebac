@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Letícia
+-Profissão: Teste de Software Jr.
+-Cidade: Hortolândia - SP
+-O que faz nas horas vaga: Jogar, tocar guitarra e sair com amigos.
+-Feedback sobre o curso Qualidade de Software: O curso está sendo excelente, consigo aplicar várias coisas no meu trabalho e com as atividades junto ao feedback do professor sinto que realmente estou aprendendo.
+-Feedback sobre a plataforma de estudo da EBAC: Não tenho reclamações e/ou oberservações, até o momento a plataformar foi muito boa para mim.
 
 Obrigado!!!
 
